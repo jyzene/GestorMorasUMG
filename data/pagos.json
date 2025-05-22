@@ -1,0 +1,23 @@
+[
+    {
+      "cartera_id": "1",
+      "carnet_estudiante": "0902018717",
+      "monto_pagado": 45.00,
+      "fecha_pago": null,
+      "metodo_pago_id": 6,
+      "tipo_cobro_id": 5,
+      "status_pago_id": 2,
+      "es_mora": false
+    },
+    {
+        "cartera_id": "1",
+        "carnet_estudiante": "0902018717",
+        "monto_pagado": 45.00,
+        "fecha_pago": null,
+        "metodo_pago_id": 6,
+        "tipo_cobro_id": 5,
+        "status_pago_id": 2,
+        "es_mora": false
+      }
+  ]
+  
